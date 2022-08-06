@@ -1,6 +1,6 @@
 # KingDomino
 
-##To Play on Windows##
+#To Play on Windows#
 
 -Download the .jar file 
 -On the folder containing the file, open powershell (can be dont by pressing shift and right mouse click)
