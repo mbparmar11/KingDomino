@@ -3,10 +3,10 @@
 **To Play on Windows**
 
 *-Download the .jar file 
--On the folder containing the file, open powershell (can be dont by pressing shift and right mouse click)
--Type java -jar kingDomino.jar
--Press Enter
--Enjoy!
+*-On the folder containing the file, open powershell (can be dont by pressing shift and right mouse click)
+*-Type java -jar kingDomino.jar
+*-Press Enter
+*-Enjoy!
 
 **To Play on MACOS**
 
