@@ -10,8 +10,8 @@
 
 **To Play on MACOS**
 
-*Download the .jar file 
-*Navigate to the folder containing the .jar file
-*Type java -jar kingDomino.jar
-*Press Enter
-*Enjoy!
+* Download the .jar file 
+* Navigate to the folder containing the .jar file
+* Type java -jar kingDomino.jar
+* Press Enter
+* Enjoy!
